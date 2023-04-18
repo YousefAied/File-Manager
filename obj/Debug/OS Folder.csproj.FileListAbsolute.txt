@@ -1,0 +1,22 @@
+D:\OS Folder\OS Folder\bin\Debug\OS Folder.exe.config
+D:\OS Folder\OS Folder\bin\Debug\OS Folder.exe
+D:\OS Folder\OS Folder\bin\Debug\OS Folder.pdb
+D:\OS Folder\OS Folder\obj\Debug\OS Folder.csproj.AssemblyReference.cache
+D:\OS Folder\OS Folder\obj\Debug\OS Folder.csproj.SuggestedBindingRedirects.cache
+D:\OS Folder\OS Folder\obj\Debug\OS_Folder.Form1.resources
+D:\OS Folder\OS Folder\obj\Debug\OS_Folder.Properties.Resources.resources
+D:\OS Folder\OS Folder\obj\Debug\OS Folder.csproj.GenerateResource.cache
+D:\OS Folder\OS Folder\obj\Debug\OS Folder.csproj.CoreCompileInputs.cache
+D:\OS Folder\OS Folder\obj\Debug\OS Folder.exe
+D:\OS Folder\OS Folder\obj\Debug\OS Folder.pdb
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\bin\Debug\OS Folder.exe.config
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\bin\Debug\OS Folder.exe
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\bin\Debug\OS Folder.pdb
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\obj\Debug\OS Folder.csproj.AssemblyReference.cache
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\obj\Debug\OS Folder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\obj\Debug\OS_Folder.Form1.resources
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\obj\Debug\OS_Folder.Properties.Resources.resources
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\obj\Debug\OS Folder.csproj.GenerateResource.cache
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\obj\Debug\OS Folder.csproj.CoreCompileInputs.cache
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\obj\Debug\OS Folder.exe
+C:\Users\Youse\OneDrive\سطح المكتب\OS Folder\OS Folder\obj\Debug\OS Folder.pdb
